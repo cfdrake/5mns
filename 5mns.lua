@@ -1,6 +1,7 @@
 -- 5mns
 -- five minute noise set
 --
+-- ENC1 chaos
 -- ENC2 freq1
 -- ENC3 freq2
 -- KEY2 or KEY3 audio engage chopper
